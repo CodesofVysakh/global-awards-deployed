@@ -16,8 +16,8 @@ export default function Spotlight() {
                     <Container>
                         <Img src={SpotImg} alt="Image" />
                     </Container>
-                    <BG1><img src={Pattern} alt="Effect" /></BG1>
-                    <BG2><img src={Pattern} alt="Effect" /></BG2>
+                    <Background1><Img src={Pattern} alt="Effect" /></Background1>
+                    <Background2><Img src={Pattern} alt="Effect" /></Background2>
                 </Right>
             </Wrapper>
         </Section>
@@ -119,7 +119,7 @@ const Container = styled.div`
 const Img = styled.img`
     
 `;
-const BG1 = styled.div`
+const Background1 = styled.div`
     width: 250px;
     filter: blur(30px);
     position: absolute;
@@ -135,7 +135,7 @@ const BG1 = styled.div`
         width: 80px;
     }
 `;
-const BG2 = styled.div`
+const Background2 = styled.div`
     width: 250px;
     filter: blur(35px);
     position: absolute;
