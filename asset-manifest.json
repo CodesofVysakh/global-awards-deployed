@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/global-awards-deployed/static/css/main.fbd93b82.chunk.css",
+    "main.js": "/global-awards-deployed/static/js/main.f04fcf53.chunk.js",
+    "main.js.map": "/global-awards-deployed/static/js/main.f04fcf53.chunk.js.map",
+    "runtime-main.js": "/global-awards-deployed/static/js/runtime-main.5eac99f2.js",
+    "runtime-main.js.map": "/global-awards-deployed/static/js/runtime-main.5eac99f2.js.map",
+    "static/js/2.4f544833.chunk.js": "/global-awards-deployed/static/js/2.4f544833.chunk.js",
+    "static/js/2.4f544833.chunk.js.map": "/global-awards-deployed/static/js/2.4f544833.chunk.js.map",
+    "static/js/3.b893ec71.chunk.js": "/global-awards-deployed/static/js/3.b893ec71.chunk.js",
+    "static/js/3.b893ec71.chunk.js.map": "/global-awards-deployed/static/js/3.b893ec71.chunk.js.map",
+    "index.html": "/global-awards-deployed/index.html",
+    "static/css/main.fbd93b82.chunk.css.map": "/global-awards-deployed/static/css/main.fbd93b82.chunk.css.map",
+    "static/js/2.4f544833.chunk.js.LICENSE.txt": "/global-awards-deployed/static/js/2.4f544833.chunk.js.LICENSE.txt",
+    "static/media/Footer-image.42d93a31.png": "/global-awards-deployed/static/media/Footer-image.42d93a31.png",
+    "static/media/apple.577c4f47.svg": "/global-awards-deployed/static/media/apple.577c4f47.svg",
+    "static/media/arrow.3c1313b5.svg": "/global-awards-deployed/static/media/arrow.3c1313b5.svg",
+    "static/media/cross-line.971a13ef.svg": "/global-awards-deployed/static/media/cross-line.971a13ef.svg",
+    "static/media/flaticon.eb779fa1.svg": "/global-awards-deployed/static/media/flaticon.eb779fa1.svg",
+    "static/media/freepik-logo-.bc987e2e.svg": "/global-awards-deployed/static/media/freepik-logo-.bc987e2e.svg",
+    "static/media/google.420de670.svg": "/global-awards-deployed/static/media/google.420de670.svg",
+    "static/media/App.css": "/global-awards-deployed/static/media/gordita_ultra_italic-webfont.2148a285.woff",
+    "static/media/logo.3e417853.svg": "/global-awards-deployed/static/media/logo.3e417853.svg",
+    "static/media/pattern-color.cfd0e732.png": "/global-awards-deployed/static/media/pattern-color.cfd0e732.png",
+    "static/media/spot-image.8be3e5f7.svg": "/global-awards-deployed/static/media/spot-image.8be3e5f7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eac99f2.js",
+    "static/js/2.4f544833.chunk.js",
+    "static/css/main.fbd93b82.chunk.css",
+    "static/js/main.f04fcf53.chunk.js"
+  ]
+}
